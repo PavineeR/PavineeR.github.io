@@ -1,6 +1,6 @@
-![alt text](pavinee.jpg "alt="drawing" width="200")
+![alt text](pavinee.jpg)
 
 # who am i
-+ name
-* ชื่อ สกุล
-- ชื่อเล่น
++ Pavinee Rongrach
+* ภาวิณี รองราช
+- ไอซ์
